@@ -21,6 +21,6 @@ function whileLoop(num){
 function doWhileLoop(array){
   function incrementVariable() {
   } do {
-    
-  } //and then write the do-while syntax's?
+    array = array.length - 1
+  } while ()
 }
