@@ -18,6 +18,5 @@ function whileLoop(num){
 }
 function doWhileLoop(array){
   function incrementVariable() {
-  i = i + 1;
-  } //and then write the do-while syntax's?
+  } do //and then write the do-while syntax's?
 }
